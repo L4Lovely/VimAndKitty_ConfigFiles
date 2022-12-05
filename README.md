@@ -1,6 +1,7 @@
 # VimAndKitty_ConfigFiles
 
 My personal:
+
   -> Bash-Scripts
   
   -> Python-Scripts
@@ -11,3 +12,5 @@ My personal:
   
   
 Feel free to do whatever with it.
+
+**Scripts / Updates etc. will be added whenever.
