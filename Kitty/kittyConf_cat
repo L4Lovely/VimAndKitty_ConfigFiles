@@ -1,0 +1,18 @@
+font_family		Envy Code R
+bold_font		auto
+italic_font		auto
+bold_italic_font	auto
+font_size		10.0
+
+include			./themes/palenight.conf
+
+enable_audio_bell       no
+visual_bell_duration    0.0
+window_alert_on_bell    no
+command_on_bell         none
+
+
+# BEGIN_KITTY_THEME
+# Sakura Night
+include current-theme.conf
+# END_KITTY_THEME
